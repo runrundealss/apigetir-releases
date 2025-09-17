@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/runrundealss/apigetir-releases/releases/download/v0.1.0/ApiGetir.dmg",
-  "notes": "İlk sürüm."
+  \"version\": \"0.1.1\",
+  \"url\": \"https://github.com/runrundealss/apigetir-releases/releases/download/v0.1.1/ApiGetir.dmg\",
+  \"notes\": \"Sürüm 0.1.1: Düz liste otomatik silme ve güncelleme butonu.\"
 }
