@@ -1,6 +1,6 @@
 {
-  \"version\": \"0.1.5\",
-  \"url\": \"https://github.com/runrundealss/apigetir-releases/releases/download/v0.1.5/ApiGetir.dmg\",
-  \"sha256\": \"3e90ed5011a1468d643daed00acbb0d4cb0ef8e757dd19fa2f87a74405cf8a55\",
-  \"notes\": \"Stabil güncelleme kontrolü ve yeni ikon.\"
+  \"version\": \"0.1.6\",
+  \"url\": \"https://github.com/runrundealss/apigetir-releases/releases/download/v0.1.6/ApiGetir.dmg\",
+  \"sha256\": \"3df49a282a3fecfa1d85aab36a39d1026522eb25731313a3c8df8465e1b2416f\",
+  \"notes\": \"Düz liste istisnası: ?th=1&psc=1&m=... ham URL ile kaydetme.\"
 }
